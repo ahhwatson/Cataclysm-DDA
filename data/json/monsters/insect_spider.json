@@ -2285,7 +2285,7 @@
     "melee_dice_sides": 1,
     "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
     "dodge": 1,
-    "upgrades": { "age_grow": 61, "into": "mon_dermatik" },
+    "upgrades": { "age_grow": 31, "into": "mon_dermatik_juvenile_flightless" },
     "extend": { "flags": [ "CAN_DIG" ] }
   },
   {
@@ -2370,6 +2370,7 @@
     "melee_dice_sides": 4,
     "melee_damage": [ { "damage_type": "cut", "amount": 3 } ],
     "dodge": 0,
+    "upgrades": { "age_grow": 31, "into": "mon_dermatik" },
     "special_attacks": [
       {
         "type": "spell",
@@ -2405,6 +2406,7 @@
     "melee_dice_sides": 4,
     "melee_damage": [ { "damage_type": "cut", "amount": 3 } ],
     "dodge": 3,
+    "upgrades": { "age_grow": 31, "into": "mon_dermatik" },
     "armor": { "bash": 1, "cut": 3 }
   },
   {

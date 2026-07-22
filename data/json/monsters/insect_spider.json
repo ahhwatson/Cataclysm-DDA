@@ -2285,7 +2285,7 @@
     "melee_dice_sides": 1,
     "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
     "dodge": 1,
-    "upgrades": { "age_grow": 31, "into": "mon_dermatik_juvenile_flightless" },
+    "upgrades": { "age_grow": 31, "into": "mon_dermatik_juvenile" },
     "extend": { "flags": [ "CAN_DIG" ] }
   },
   {

@@ -1452,9 +1452,9 @@
     "name": { "str": "mild steel chain link" },
     "symbol": "=",
     "color": "light_gray",
-    "description": "A set of small metal rings, suitable for constructing chainmail.",
+    "description": "A small metal ring, suitable for constructing chainmail.",
     "material": [ "lc_steel" ],
-    "volume": "250 ml",
+    "volume": "1 ml",
     "weight": "320 mg"
   },
   {
